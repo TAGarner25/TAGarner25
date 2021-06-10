@@ -7,7 +7,12 @@
 - 🤔 I’m looking for help with career ideas and how i can best help serve the dev community
 
 - ⚡ Fun fact: I played lacrosse for 13 years, 4 of which were for ncaa schools
-
+<a href="https://github.com/tagrner25/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tagarner25&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/tagarner25/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tagarner25&repo=convoychat" />
+</a>
 ![Trevor's GitHub stats](https://github-readme-stats.vercel.app/api?username=tagarner25&count_private=true&theme=vue-dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tagarner25&theme=vue-dark)](https://github.com/tagarner25/github-readme-stats)
 [![Trevors's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tagarner25&theme=vue-dark)](https://github.com/tagarner25/github-readme-stats)
