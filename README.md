@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with career ideas and how i can best help serve the dev community
 - ⚡ Fun fact: I played lacrosse for 13 years, 4 of which were for ncaa schools
 - ⚡ Fun fact: I have over 11,000 songs in my spotify library and over 1,000 playlists
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=537phlhwfk88qqbe8l0j5915p&count=3&width=500)](https://open.spotify.com/user/537phlhwfk88qqbe8l0j5915p)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=537phlhwfk88qqbe8l0j5915p&count=5&width=1000)](https://open.spotify.com/user/537phlhwfk88qqbe8l0j5915p)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tagarner25&theme=vue-dark&width=500)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tagarner25&theme=vue-dark&width=500)](https://github.com/tagarner25/github-readme-stats)
 ![Trevor's GitHub stats](https://github-readme-stats.vercel.app/api?username=tagarner25&count_private=true&theme=vue-dark&show_icons=true&width=500)
