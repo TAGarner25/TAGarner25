@@ -9,7 +9,8 @@
 - ⚡ Fun fact: I played lacrosse for 13 years, 4 of which were for ncaa schools
 
 ![Trevor's GitHub stats](https://github-readme-stats.vercel.app/api?username=tagarner25&count_private=true&theme=vue-dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tagarner25)](https://github.com/tagarner25/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tagarner25&theme=vue-dark)](https://github.com/tagarner25/github-readme-stats)
+[![Trevors's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tagarner25)](https://github.com/tagarner25/github-readme-stats)
 
 
 
