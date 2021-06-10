@@ -11,8 +11,8 @@
 ![My Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=537phlhwfk88qqbe8l0j5915p)
 
 ![Trevor's GitHub stats](https://github-readme-stats.vercel.app/api?username=tagarner25&count_private=true&theme=vue-dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tagarner25&theme=vue-dark)](https://github.com/tagarner25/github-readme-stats)
 [![Trevors's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tagarner25&theme=vue-dark)](https://github.com/tagarner25/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tagarner25&theme=vue-dark)](https://github.com/tagarner25/github-readme-stats)
 
 <!--
 **TAGarner25/TAGarner25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
