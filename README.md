@@ -1,7 +1,5 @@
 ### Hi there 👋 i'm trevor.
 
-![Trevor's GitHub stats](https://github-readme-stats.vercel.app/api?username=tagarner25&theme=dark&show_icons=true)
-
 - 🌱 I’m currently learning computer science at portland state university
 - 🌱 I previously studied economics, political science, and philosophy at oregon state university and dominican university of california
 - 🔭 I’m currently working on c++ programs for my studies
@@ -9,6 +7,11 @@
 - 🤔 I’m looking for help with career ideas and how i can best help serve the dev community
 
 - ⚡ Fun fact: I played lacrosse for 13 years, 4 of which were for ncaa schools
+
+![Trevor's GitHub stats](https://github-readme-stats.vercel.app/api?username=tagarner25&theme=dark&show_icons=true)
+[![Trevor's GitHub stats](https://github-readme-stats.vercel.app/api?username=tagarner25)](https://github.com/tagarner25/github-readme-stats)
+![Trevor's GitHub stats](https://github-readme-stats.vercel.app/api?username=tagarner25&count_private=true)
+
 
 <!--
 **TAGarner25/TAGarner25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
