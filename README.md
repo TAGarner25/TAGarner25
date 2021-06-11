@@ -14,10 +14,10 @@
 
 
 <a href="https://github.com/tagarner25/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tagarner25&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tagarner25&theme=vue-dark" />
 </a>
-<a href="https://github.com/tagarner25/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tagarner25&repo=convoychat" />
+<a href="https://github.com/tagarner25/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tagarner25&theme=vue-dark" />
 </a>
 <!--
 **TAGarner25/TAGarner25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
