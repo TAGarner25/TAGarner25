@@ -13,7 +13,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tagarner25&theme=vue-dark&width=500" />
 </a>
 <a href="https://github.com/tagarner25">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tagarner25&theme=vue-dark&width=500" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tagarner25&theme=vue-dark&width=500&layout=compact" />
 </a>
 <a href="https://github.com/tagarner25">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tagarner25&count_private=true&theme=vue-dark&show_icons=true&width=500" />
