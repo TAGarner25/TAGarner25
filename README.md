@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tagarner25&theme=vue-dark&width=500)](https://github.com/tagarner25/github-readme-stats)
 ![Trevor's GitHub stats](https://github-readme-stats.vercel.app/api?username=tagarner25&count_private=true&theme=vue-dark&show_icons=true&width=500)
 
-<a href="https://github.com/tagarner25/github-readme-stats">
+<a href="https://open.spotify.com/user/537phlhwfk88qqbe8l0j5915p">
   <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=537phlhwfk88qqbe8l0j5915p&count=5&width=750" />
 </a>
 <a href="https://github.com/tagarner25/github-readme-stats">
