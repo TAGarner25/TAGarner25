@@ -14,7 +14,7 @@
 
 
 <a href="https://github.com/tagarner25/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tagarner25&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tagarner25&repo=tagarner25" />
 </a>
 
 <!--
