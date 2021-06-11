@@ -13,10 +13,10 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tagarner25&theme=vue-dark&width=1000" />
 </a>
 <a href="https://github.com/tagarner25">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tagarner25&count_private=true&theme=vue-dark&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tagarner25&count_private=true&theme=vue-dark&show_icons=true" />
 </a>
 <a href="https://github.com/tagarner25">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=tagarner25&theme=vue-dark&hide_title=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tagarner25&theme=vue-dark&hide_title=true" />
 </a>
 <a href="https://github.com/tagarner25">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tagarner25&theme=vue-dark&layout=compact&width=1000" />
