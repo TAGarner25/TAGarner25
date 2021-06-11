@@ -19,6 +19,12 @@
 <a href="https://github.com/tagarner25/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tagarner25&theme=vue-dark" />
 </a>
+<a href="https://github.com/tagarner25/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tagarner25&count_private=true&theme=vue-dark&show_icons=true" />
+</a>
+<a href="https://github.com/tagarner25/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tagarner25&theme=vue-dark" />
+</a>
 <!--
 **TAGarner25/TAGarner25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
