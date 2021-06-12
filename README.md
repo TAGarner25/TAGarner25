@@ -6,7 +6,8 @@
 <a href="https://github.com/tagarner25">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tagarner25&theme=vue-dark" />
 </a>
-
+<a>
+</a>
 - 🌱 I’m currently learning computer science at portland state university
 - 🌱 I previously studied economics, political science, and philosophy at oregon state university and dominican university of california
 - 🔭 I’m currently working on c++ programs for my studies
