@@ -1,10 +1,10 @@
 ### Hi there 👋 i'm trevor.
 
 <a href="https://github.com/tagarner25">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tagarner25&count_private=true&theme=vue-dark&show_icons=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=tagarner25&count_private=true&theme=vue-dark&show_icons=true" />
 </a>
 <a href="https://github.com/tagarner25">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tagarner25&theme=vue-dark&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tagarner25&theme=vue-dark&layout=compact" />
 </a>
 
 - 🌱 I’m currently learning computer science at portland state university
@@ -13,7 +13,7 @@
 - 🤔 I’m looking for help with career ideas and how i can best help serve the dev community
 - ⚡ Fun fact: I played lacrosse for 13 years, 4 of which were for ncaa schools
 - ⚡ Fun fact: I have over 11,000 songs in my spotify library and over 1,000 playlists
-- 
+
 <a href="https://open.spotify.com/user/537phlhwfk88qqbe8l0j5915p">
   <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=537phlhwfk88qqbe8l0j5915p&count=5&width=1000" />
 </a>
