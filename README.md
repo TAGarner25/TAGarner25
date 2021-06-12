@@ -1,13 +1,6 @@
 ### Hi there 👋 i'm trevor.
 
-<a href="https://github.com/tagarner25">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tagarner25&count_private=true&theme=vue-dark&show_icons=true" />
-</a>
-<a href="https://github.com/tagarner25">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tagarner25&theme=vue-dark" />
-</a>
-<a>
-</a>
+
 - 🌱 I’m currently learning computer science at portland state university
 - 🌱 I previously studied economics, political science, and philosophy at oregon state university and dominican university of california
 - 🔭 I’m currently working on c++ programs for my studies
@@ -18,13 +11,13 @@
 <a href="https://open.spotify.com/user/537phlhwfk88qqbe8l0j5915p">
   <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=537phlhwfk88qqbe8l0j5915p&count=5&width=1000" />
 </a>
+<a href="https://github.com/tagarner25">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tagarner25&count_private=true&theme=vue-dark&show_icons=true" />
+</a>
+<a href="https://github.com/tagarner25">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tagarner25&theme=vue-dark" />
+</a>
 
-<a href="https://github.com/tagarner25">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tagarner25&theme=vue-dark&hide_title=true" />
-</a>
-<a href="https://github.com/tagarner25">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tagarner25&theme=vue-dark&layout=compact" />
-</a>
 <!--
 **TAGarner25/TAGarner25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,4 +31,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I played lacrosse for 4 years at the NCAA level 
+
+<a href="https://github.com/tagarner25">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tagarner25&theme=vue-dark&hide_title=true" />
+</a>
+<a href="https://github.com/tagarner25">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tagarner25&theme=vue-dark&layout=compact" />
+</a>
+
+
 -->
