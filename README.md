@@ -3,7 +3,7 @@
 <!-- brief description -->
 I am an aspiring software developer, general tech hobbyist, former collegiate athlete, and oldest child. I enjoy curating awesome playlists and finding new music. I aim to make the world a better place by ensuring each of my interactions are sincere and by bringing joy to people's lives.
 
-### My stats
+## My stats
 <a href="https://github.com/tagarner25">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tagarner25&count_private=true&theme=vue-dark&show_icons=true" />
 </a>
@@ -14,14 +14,15 @@ I am an aspiring software developer, general tech hobbyist, former collegiate at
 <!-- table of contents -->
 
 <!-- about me -->
-## A little about me
-I am an aspriring software developer with interests in data analytics, artificial intelligence, machine learning, and human-technology interaction (amongst other topics). I first fell in love with technolgy while working as a Business Analyst for an aviation company here in Portland (OR). During my time there I was fortunate enough to experience the many facets of the company (engineering, finance, management, manufacturing, and production), all of which helped me understand key business drivers in order to develop an automated document management system using Microsoft Sharepoint, Outlook, and Adobe Sign *(it also complied with FAA requirements for pursuing Supplemental Type Certificates)*. *This was probably the most stressful yet thrilling time I've experienced while on the job*. Because of this experience, I am now studying Computer Science at Portland State University and aim to graduate in the spring term of 2022. I previously studied economics, political science, and philosophy at Oregon State University and Dominican University of California, where I played 4 yrs of competetive lacrosse and won 4 conference championships. TL/DR
+## A little about me (TL/DR)
+I am an aspriring software developer with interests in data analytics, artificial intelligence, machine learning, and human-technology interaction (amongst other topics). I first fell in love with technolgy while working as a Business Analyst for an aviation company here in Portland (OR). During my time there I was fortunate enough to experience the many departments of the company (engineering, finance, management, manufacturing, and production), all of which aided my understanding of many key business drivers in order to develop an automated document management system using Microsoft Sharepoint, Outlook, and Adobe Sign. Because of this experience, I am now studying Computer Science at Portland State University and aim to graduate in the spring term of 2022. I previously studied economics, political science, and philosophy at Oregon State University and Dominican University of California, where I played 4 yrs of competetive lacrosse and won 4 conference championships. TL/DR
 
 #### TL/DR 
-- 🌱 I’m currently learning computer science at portland state university
-- 🌱 I previously studied economics, political science, and philosophy at oregon state university and dominican university of california
-- 🔭 I’m currently working on c++ programs for my studies
-- 🔭 I’m currently working on creating my own website to host my portfolio and resume
+- ⚡ Fell in love with technology while developing an automated document management system using Microsoft Sharepoint, Outlook, and Adobe Sign
+- 🌱 I’m currently learning Computer Science at Portland State University
+- 🌱 I previously studied Economics, Political Science, and Philosophy at Oregon State University and Dominican University of California
+- 🔭 I’m currently working on C++ programs for my studies
+- 🔭 I’m currently working on creating my own github pages website to host my portfolio and resume
 - 🤔 I’m looking for help with career ideas and how i can best help serve the dev community
 - ⚡ Fun fact: I played lacrosse for 13 years, 4 yrs of which were for ncaa schools
 - ⚡ Fun fact: I am the oldest of 3 children
@@ -38,22 +39,22 @@ I am an aspriring software developer with interests in data analytics, artificia
 - Spotify song sharing app
 - *and more when I think of them*
 
-### Contact Me
+## Contact Me
 Email:
   - trevorgarner5@gmail.com
   - trevor@trevorgarner.org
 
 LinkedIn:
-  - temp
+  - [Trevor Garner](https://www.linkedin.com/in/trevor-garner-4/)
 
 Github:
-  - temp
+  - [TAGarner25](https://github.com/TAGarner25)
 
 Twitter:
-  - temp
+  - [Trevor_5](https://twitter.com/Trevor_5)
 
 Discord:
-  - temp
+  - [tgarner](https://discordapp.com/users/491416520778448906/)
 
 <!--
 **TAGarner25/TAGarner25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
