@@ -3,6 +3,14 @@
 <!-- brief description -->
 I am an aspiring software developer, general tech hobbyist, former collegiate athlete, and oldest child. I enjoy curating awesome playlists and finding new music. I aim to make the world a better place by ensuring each of my interactions are sincere and that I help bring joy to people's lives.
 
+### My stats
+<a href="https://github.com/tagarner25">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tagarner25&count_private=true&theme=vue-dark&show_icons=true" />
+</a>
+<a href="https://github.com/tagarner25">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tagarner25&theme=vue-dark" />
+</a>
+
 <!-- table of contents -->
 
 <!-- about me -->
@@ -22,14 +30,6 @@ I am an aspriring software developer with interests in data analytics, artificia
 ### My recent Spotify plays
 <a href="https://open.spotify.com/user/537phlhwfk88qqbe8l0j5915p">
   <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=537phlhwfk88qqbe8l0j5915p&count=5&width=1000" />
-</a>
-
-### My stats
-<a href="https://github.com/tagarner25">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tagarner25&count_private=true&theme=vue-dark&show_icons=true" />
-</a>
-<a href="https://github.com/tagarner25">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tagarner25&theme=vue-dark" />
 </a>
 
 ### Upcoming Projects (Dates TBD)
