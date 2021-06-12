@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Trevor!
 
 <!-- brief description -->
-I am an aspriring software developer with interests in data analytics, artificial intelligence, machine learning, and human-technology interaction. I fell in love with technolgy while working as a Business Analyst for an aviation company here in Portland (OR). During my time there I was fortunate enough to experience multiple facets of the company (engineering, finance, management, manufacturing, and production), all of which helped me understand key business needs in order to develop an automated document management system using Microsoft Sharepoint, Outlook, and Adobe Sign that also complied with FAA document management requirements. *This was probably the most stressful yet thrilling time I've experienced while on the job*. Because of this experience, I am now studying Computer Science at Portland State University and aim to graduate in the spring term of 2022. *I previously studied economics, political science, and philosophy at Oregon State University and Dominican University of California*. 
+I am an aspriring software developer with interests in data analytics, artificial intelligence, machine learning, and human-technology interaction (amongst other topics). I first fell in love with technolgy while working as a Business Analyst for an aviation company here in Portland (OR). During my time there I was fortunate enough to experience the many facets of the company (engineering, finance, management, manufacturing, and production), all of which helped me understand key business drivers in order to develop an automated document management system using Microsoft Sharepoint, Outlook, and Adobe Sign *(it also complied with FAA document management requirements)*. *This was probably the most stressful yet thrilling time I've experienced while on the job*. Because of this experience, I am now studying Computer Science at Portland State University and aim to graduate in the spring term of 2022. *I previously studied economics, political science, and philosophy at Oregon State University and Dominican University of California, where I played 4 yrs of competetive lacrosse and won 4 conference championships*. 
 
 <!-- table of contents -->
 
@@ -12,18 +12,35 @@ I am an aspriring software developer with interests in data analytics, artificia
 - 🌱 I previously studied economics, political science, and philosophy at oregon state university and dominican university of california
 - 🔭 I’m currently working on c programs for my studies
 - 🤔 I’m looking for help with career ideas and how i can best help serve the dev community
-- ⚡ Fun fact: I played lacrosse for 13 years, 4 of which were for ncaa schools
+- ⚡ Fun fact: I played lacrosse for 13 years, 4 yrs of which were for ncaa schools
+- ⚡ Fun fact: I am the oldest of 3 children
 - ⚡ Fun fact: I have over 11,000 songs in my spotify library and over 1,000 playlists
 
+### My recent Spotify plays
 <a href="https://open.spotify.com/user/537phlhwfk88qqbe8l0j5915p">
   <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=537phlhwfk88qqbe8l0j5915p&count=5&width=1000" />
 </a>
+
+### My stats
 <a href="https://github.com/tagarner25">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tagarner25&count_private=true&theme=vue-dark&show_icons=true" />
 </a>
 <a href="https://github.com/tagarner25">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tagarner25&theme=vue-dark" />
 </a>
+
+### Contact Me
+Email:
+  - trevorgarner5@gmail.com
+  - trevor@trevorgarner.org
+LinkedIn:
+  -
+Github:
+  -
+Twitter:
+  -
+Discord:
+  -
 
 <!--
 **TAGarner25/TAGarner25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
