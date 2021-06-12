@@ -10,7 +10,8 @@ I am an aspriring software developer with interests in data analytics, artificia
 
 - 🌱 I’m currently learning computer science at portland state university
 - 🌱 I previously studied economics, political science, and philosophy at oregon state university and dominican university of california
-- 🔭 I’m currently working on c programs for my studies
+- 🔭 I’m currently working on c++ programs for my studies
+- 🔭 I’m currently working on creating my own website to host my portfolio and resume
 - 🤔 I’m looking for help with career ideas and how i can best help serve the dev community
 - ⚡ Fun fact: I played lacrosse for 13 years, 4 yrs of which were for ncaa schools
 - ⚡ Fun fact: I am the oldest of 3 children
@@ -28,6 +29,12 @@ I am an aspriring software developer with interests in data analytics, artificia
 <a href="https://github.com/tagarner25">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tagarner25&theme=vue-dark" />
 </a>
+
+### Upcoming Projects (Dates TBD)
+- Spotify playlist manager
+- Spotify playlist creator
+- Spotify song sharing app
+- *and more when I think of them*
 
 ### Contact Me
 Email:
