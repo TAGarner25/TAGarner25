@@ -40,12 +40,16 @@ I am an aspriring software developer with interests in data analytics, artificia
 Email:
   - trevorgarner5@gmail.com
   - trevor@trevorgarner.org
+
 LinkedIn:
   - temp
+
 Github:
   - temp
+
 Twitter:
   - temp
+
 Discord:
   - temp
 
