@@ -45,16 +45,16 @@ Email:
   - trevor@trevorgarner.org
 
 LinkedIn:
-  - temp
+  - [Trevor Garner](https://www.linkedin.com/in/trevor-garner-4/)
 
 Github:
-  - temp
+  - [TAGarner25](https://github.com/TAGarner25)
 
 Twitter:
-  - temp
+  - [Trevor_5](https://twitter.com/Trevor_5)
 
 Discord:
-  - temp
+  - [tgarner](https://discordapp.com/users/tgarner#8180/)
 
 <!--
 **TAGarner25/TAGarner25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
