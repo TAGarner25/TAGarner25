@@ -54,7 +54,7 @@ Twitter:
   - [Trevor_5](https://twitter.com/Trevor_5)
 
 Discord:
-  - [tgarner](https://discordapp.com/users/tgarner#8180/)
+  - [tgarner](https://discordapp.com/users/tgarner/)
 
 <!--
 **TAGarner25/TAGarner25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
