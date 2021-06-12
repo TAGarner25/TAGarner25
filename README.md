@@ -3,7 +3,7 @@
 <!-- brief description -->
 I am an aspiring software developer, general tech hobbyist, former collegiate athlete, and oldest child. I enjoy curating awesome playlists and finding new music. I aim to make the world a better place by ensuring each of my interactions are sincere and by bringing joy to people's lives.
 
-### My stats
+## My stats
 <a href="https://github.com/tagarner25">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tagarner25&count_private=true&theme=vue-dark&show_icons=true" />
 </a>
@@ -39,7 +39,7 @@ I am an aspriring software developer with interests in data analytics, artificia
 - Spotify song sharing app
 - *and more when I think of them*
 
-### Contact Me
+## Contact Me
 Email:
   - trevorgarner5@gmail.com
   - trevor@trevorgarner.org
@@ -54,7 +54,7 @@ Twitter:
   - [Trevor_5](https://twitter.com/Trevor_5)
 
 Discord:
-  - [tgarner](https://discordapp.com/users/tgarner/)
+  - [tgarner](https://discordapp.com/users/491416520778448906/)
 
 <!--
 **TAGarner25/TAGarner25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
