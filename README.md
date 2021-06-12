@@ -1,5 +1,12 @@
-## Hi there 👋 I'm Trevor!
+# Hi there 👋 I'm Trevor!
 
+<!-- brief description -->
+I am an aspriring software developer with interests in data analytics, artificial intelligence, machine learning, and human-technology interaction. I fell in love with technolgy while working as a Business Analyst for an aviation company here in Portland (OR). During my time there I was fortunate enough to experience multiple facets of the company (engineering, finance, management, manufacturing, and production), all of which helped me understand key business needs in order to develop an automated document management system using Microsoft Sharepoint, Outlook, and Adobe Sign that also complied with FAA document management requirements. *This was probably the most stressful yet thrilling time I've experienced while on the job*. Because of this experience, I am now studying Computer Science at Portland State University and aim to graduate in the spring term of 2022. *I previously studied economics, political science, and philosophy at Oregon State University and Dominican University of California*. 
+
+<!-- table of contents -->
+
+<!-- about me -->
+## A little about me
 
 - 🌱 I’m currently learning computer science at portland state university
 - 🌱 I previously studied economics, political science, and philosophy at oregon state university and dominican university of california
