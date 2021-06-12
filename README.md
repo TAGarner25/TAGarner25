@@ -1,12 +1,12 @@
-## Hi there 👋 i'm trevor.
+## Hi there 👋 I'm Trevor!
 
 
-- 🌱 I’m **currently learning computer science** at portland state university
-- 🌱 I **previously studied economics, political science, and philosophy** at oregon state university and dominican university of california
-- 🔭 I’m **currently working on c++** programs for my studies
+- 🌱 I’m currently learning computer science at portland state university
+- 🌱 I previously studied economics, political science, and philosophy at oregon state university and dominican university of california
+- 🔭 I’m currently working on c programs for my studies
 - 🤔 I’m looking for help with career ideas and how i can best help serve the dev community
-- ⚡ **Fun fact:** I played lacrosse for 13 years, 4 of which were for ncaa schools
-- ⚡ **Fun fact:** I have over 11,000 songs in my spotify library and over 1,000 playlists
+- ⚡ Fun fact: I played lacrosse for 13 years, 4 of which were for ncaa schools
+- ⚡ Fun fact: I have over 11,000 songs in my spotify library and over 1,000 playlists
 
 <a href="https://open.spotify.com/user/537phlhwfk88qqbe8l0j5915p">
   <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=537phlhwfk88qqbe8l0j5915p&count=5&width=1000" />
