@@ -33,11 +33,7 @@ I am an aspriring software developer with interests in data analytics, artificia
   <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=537phlhwfk88qqbe8l0j5915p&count=5&width=1000" />
 </a>
 
-### Upcoming Projects (Dates TBD)
-- Spotify playlist manager
-- Spotify playlist creator
-- Spotify song sharing app
-- *and more when I think of them*
+### Projects
 
 ## Contact Me
 Email:
