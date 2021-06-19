@@ -9,9 +9,6 @@ I am an aspiring software developer, general tech hobbyist, former collegiate at
 </a>
 <a href="https://github.com/tagarner25">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tagarner25&count_private=true&theme=vue-dark&show_icons=true" />
-<a href="https://github.com/tagarner25">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tagarner25&theme=vue-dark&hide_title=true" />
-</a>
 
 <!-- table of contents -->
 
