@@ -9,10 +9,6 @@ I am an aspiring software developer, general tech hobbyist, former collegiate at
 </a>
 <a href="https://github.com/tagarner25">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tagarner25&count_private=true&theme=vue-dark&show_icons=true" />
-</a>
-<a href="https://github.com/tagarner25">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tagarner25&theme=vue-dark" />
-</a>
 
 <!-- table of contents -->
 
@@ -69,12 +65,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I played lacrosse for 4 years at the NCAA level 
 
+wakatime
 <a href="https://github.com/tagarner25">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tagarner25&theme=vue-dark&hide_title=true" />
 </a>
+
+languages
 <a href="https://github.com/tagarner25">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tagarner25&theme=vue-dark&layout=compact" />
 </a>
 
+streak
+</a>
+<a href="https://github.com/tagarner25">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tagarner25&theme=vue-dark" />
+</a>
 
 -->
