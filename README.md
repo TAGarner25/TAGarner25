@@ -17,7 +17,7 @@ I am an aspiring software developer, general tech hobbyist, former collegiate at
 I am an aspriring software developer who likes to build things for fun. I first fell in love with technolgy while working as a Business Analyst for an aviation company here in Portland (OR). I am now studying Computer Science at Portland State University and aim to graduate in the spring term of 2022. Previously, I studied economics, political science, and philosophy at Oregon State University and Dominican University of California, where I played 4 yrs of competetive lacrosse and won 4 conference championships. TL/DR
 
 #### TL/DR 
-- ⚡ Fell in love with technology while developing an automated document management system using Microsoft Sharepoint, Outlook, and Adobe Sign
+- ⚡ Fell in love with technology while managing the development of an automated document management system using Microsoft Sharepoint, Outlook, and Adobe Sign
 - 🌱 I’m currently learning Computer Science at Portland State University
 - 🌱 I previously studied Economics, Political Science, and Philosophy at Oregon State University and Dominican University of California
 - 🔭 I’m currently working on C++ programs for my studies
