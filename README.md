@@ -45,8 +45,8 @@ LinkedIn:
 Github:
   - [TAGarner25](https://github.com/TAGarner25)
 
-Twitter:
-  - [Trevor_5](https://twitter.com/Trevor_5)
+<!-- Twitter:
+  - [Trevor_5](https://twitter.com/Trevor_5) -->
 
 Discord:
   - [tgarner](https://discordapp.com/users/491416520778448906/)
