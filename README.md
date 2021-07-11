@@ -10,9 +10,7 @@ I am an aspiring software developer, general tech hobbyist, former collegiate at
 <a href="https://github.com/tagarner25">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tagarner25&count_private=true&theme=vue-dark&show_icons=true" />
 <a />
-<a href="https://github.com/tagarner25">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tagarner25&theme=vue-dark&hide_title=true" />
-</a>
+<figure><embed src="https://wakatime.com/share/@tagarner25/54193a7d-78e6-433b-b25c-6aa7180e3c43.svg"></embed></figure>
 
 <!-- table of contents -->
 
