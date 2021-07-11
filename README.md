@@ -11,9 +11,7 @@ I am an aspiring software developer, general tech hobbyist, former collegiate at
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tagarner25&count_private=true&theme=vue-dark&show_icons=true" />
 <a />
 <!-- Languages WakaTime -->
-<a>
-<figure><embed src="https://wakatime.com/share/@tagarner25/54193a7d-78e6-433b-b25c-6aa7180e3c43.svg"></embed></figure>
-<a/>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@tagarner25/e28d9d0c-fe43-400a-9619-8a6f77810857.png" /></a>
 <!-- OS System WakaTime -->
 <a>
 <figure><embed src="https://wakatime.com/share/@tagarner25/0d397430-3958-41a5-adfe-31841fdb3884.svg"></embed></figure>
