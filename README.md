@@ -10,8 +10,10 @@ I am an aspiring software developer, general tech hobbyist, former collegiate at
 <a href="https://github.com/tagarner25">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tagarner25&count_private=true&theme=vue-dark&show_icons=true" />
 <a />
+<!-- Languages WakaTime -->
 <figure><embed src="https://wakatime.com/share/@tagarner25/54193a7d-78e6-433b-b25c-6aa7180e3c43.svg"></embed></figure>
-
+<!-- OS System WakaTime -->
+<figure><embed src="https://wakatime.com/share/@tagarner25/0d397430-3958-41a5-adfe-31841fdb3884.svg"></embed></figure>
 <!-- table of contents -->
 
 <!-- about me -->
