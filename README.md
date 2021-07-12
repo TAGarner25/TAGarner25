@@ -13,10 +13,6 @@ I am an aspiring software developer, general tech hobbyist, former collegiate at
 <a />
 <!-- Languages WakaTime -->
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@tagarner25/e28d9d0c-fe43-400a-9619-8a6f77810857.png" /></a>
-<!-- OS System WakaTime -->
-<a>
-<figure><embed src="https://wakatime.com/share/@tagarner25/0d397430-3958-41a5-adfe-31841fdb3884.svg"></embed></figure>
-<a/>
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
