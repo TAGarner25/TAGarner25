@@ -17,6 +17,10 @@ I am an aspiring software developer, general tech hobbyist, former collegiate at
 <a>
 <figure><embed src="https://wakatime.com/share/@tagarner25/0d397430-3958-41a5-adfe-31841fdb3884.svg"></embed></figure>
 <a/>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+  
 <!-- End Coding Stats -->
   
 <!-- table of contents -->
