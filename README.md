@@ -3,6 +3,7 @@
 <!-- brief description -->
 I am an aspiring software developer, general tech hobbyist, former collegiate athlete, and music fanatic who enjoys curating awesome playlists. I aim to make the world a better place by ensuring each of my interactions are sincere and by bringing joy to people's lives.
 
+<!-- Start Coding Stats -->
 ## My stats
 <a href="https://github.com/tagarner25">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tagarner25&theme=vue-dark&layout=compact" />
@@ -16,6 +17,7 @@ I am an aspiring software developer, general tech hobbyist, former collegiate at
 <a>
 <figure><embed src="https://wakatime.com/share/@tagarner25/0d397430-3958-41a5-adfe-31841fdb3884.svg"></embed></figure>
 <a/>
+<!-- End Coding Stats -->
   
 <!-- table of contents -->
 
