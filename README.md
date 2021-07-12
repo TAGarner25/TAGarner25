@@ -7,10 +7,13 @@ I am an aspiring software developer, general tech hobbyist, former collegiate at
 ## My stats
 <a href="https://github.com/tagarner25">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tagarner25&theme=vue-dark&layout=compact" />
-</a>
 <a href="https://github.com/tagarner25">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tagarner25&theme=vue-dark" width="500" />
+</a>
+</a>
+<!-- <a href="https://github.com/tagarner25">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tagarner25&count_private=true&theme=vue-dark&show_icons=true" />
-<a />
+<a /> -->
 <!-- Languages WakaTime -->
 <!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@tagarner25/e28d9d0c-fe43-400a-9619-8a6f77810857.png" /></a> -->
 
