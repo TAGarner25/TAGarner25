@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Trevor!
 
 <!-- brief description -->
-I am an aspiring software developer, general tech hobbyist, former collegiate athlete, and music fanatic who enjoys curating awesome playlists. I aim to make the world a better place by ensuring each of my interactions are sincere and by bringing joy to people's lives.
+I am an aspiring software developer, general tech hobbyist, former collegiate athlete, and music fanatic who enjoys curating awesome playlists.
 
 <!-- Start Coding Stats -->
 ## My stats
