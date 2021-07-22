@@ -103,11 +103,11 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ## A little about me
 I am an aspriring software developer who likes to build things for fun. I first fell in love with technolgy while working as a Business Analyst for an aviation company here in Portland (OR). I am now studying Computer Science at Portland State University and aim to graduate in the spring term of 2022. Previously, I studied economics, political science, and philosophy at Oregon State University and Dominican University of California, where I played 4 yrs of competetive lacrosse and won 4 conference championships.
 
-#### TL/DR 
-- ⚡ Fell in love with technology while managing the development of an automated document management system using Microsoft Sharepoint, Outlook, and Adobe Sign
+
+<!-- ⚡ Fell in love with technology while managing the development of an automated document management system using Microsoft Sharepoint, Outlook, and Adobe Sign
 - 🌱 I’m currently learning Computer Science at Portland State University
 - 🌱 I previously studied Economics, Political Science, and Philosophy at Oregon State University and Dominican University of California
-<!-- 🔭 I’m currently working on C++ programs for my studies
+- 🔭 I’m currently working on C++ programs for my studies
 - 🔭 I’m currently working on creating my own github pages website to host my portfolio and resume
 - 🤔 I’m looking for help with career ideas and how i can best help serve the dev community
 - ⚡ Fun fact: I played lacrosse for 13 years, 4 yrs of which were for ncaa schools
