@@ -18,7 +18,7 @@ I am an aspiring software developer, general tech hobbyist, former collegiate at
 <!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@tagarner25/e28d9d0c-fe43-400a-9619-8a6f77810857.png" /></a> -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-44824%20lines%20of%20code-blue)
 
@@ -61,17 +61,17 @@ Sunday       61 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      34 mins             ███████████████████████░░   95.18% 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   4.82%
+C++                      29 mins             ███████████████████████░░   94.45% 
+Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   5.55%
 
 🔥 Editors: 
-VS Code                  36 mins             █████████████████████████   100.0%
+VS Code                  31 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-prog1_v2                 36 mins             █████████████████████████   100.0%
+prog1_v2                 31 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    36 mins             █████████████████████████   100.0%
+Linux                    31 mins             █████████████████████████   100.0%
 
 ```
 
@@ -87,7 +87,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2021
+ Last Updated on 05/08/2021
 <!--END_SECTION:waka-->
   
 <!-- End Coding Stats -->
