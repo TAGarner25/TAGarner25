@@ -61,17 +61,16 @@ Sunday       61 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C++                      29 mins             ███████████████████████░░   94.45% 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   5.55%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-prog1_v2                 31 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    31 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -87,7 +86,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2021
+ Last Updated on 07/08/2021
 <!--END_SECTION:waka-->
   
 <!-- End Coding Stats -->
