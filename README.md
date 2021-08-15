@@ -18,7 +18,7 @@ I am an aspiring software developer, general tech hobbyist, former collegiate at
 <!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@tagarner25/e28d9d0c-fe43-400a-9619-8a6f77810857.png" /></a> -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-44824%20lines%20of%20code-blue)
 
@@ -26,7 +26,7 @@ I am an aspiring software developer, general tech hobbyist, former collegiate at
 
 > 🏆 366 Contributions in the Year 2021
  > 
-> 📦 152.0 kB Used in Github's Storage 
+> 📦 152.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,7 +86,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2021
+ Last Updated on 15/08/2021
 <!--END_SECTION:waka-->
   
 <!-- End Coding Stats -->
