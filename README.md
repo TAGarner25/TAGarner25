@@ -22,11 +22,11 @@ I am an aspiring software developer, general tech hobbyist, former collegiate at
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-44824%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 371 Contributions in the Year 2021
  > 
-> 📦 165.3 kB Used in Github's Storage 
+> 📦 165.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,7 +86,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2021
+ Last Updated on 22/09/2021
 <!--END_SECTION:waka-->
   
 <!-- End Coding Stats -->
