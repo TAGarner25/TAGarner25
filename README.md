@@ -26,7 +26,7 @@ I am an aspiring software developer, general tech hobbyist, former collegiate at
 
 > 🏆 371 Contributions in the Year 2021
  > 
-> 📦 165.5 kB Used in GitHub's Storage 
+> 📦 165.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,7 +86,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/12/2021
+ Last Updated on 14/12/2021
 <!--END_SECTION:waka-->
   
 <!-- End Coding Stats -->
