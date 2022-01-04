@@ -18,13 +18,13 @@ I am an aspiring software developer, general tech hobbyist, former collegiate at
 <!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@tagarner25/e28d9d0c-fe43-400a-9619-8a6f77810857.png" /></a> -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2022
+> 🏆 1 Contributions in the Year 2022
  > 
 > 📦 165.6 kB Used in GitHub's Storage 
  > 
@@ -38,18 +38,18 @@ I am an aspiring software developer, general tech hobbyist, former collegiate at
 
 ```text
 🌞 Morning    16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.92% 
-🌆 Daytime    108 commits    ████████░░░░░░░░░░░░░░░░░   33.23% 
-🌃 Evening    151 commits    ███████████░░░░░░░░░░░░░░   46.46% 
+🌆 Daytime    107 commits    ████████░░░░░░░░░░░░░░░░░   32.92% 
+🌃 Evening    152 commits    ███████████░░░░░░░░░░░░░░   46.77% 
 🌙 Night      50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.38%
 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.77% 
+Monday       36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.08% 
 Tuesday      30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.23% 
 Wednesday    12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.69% 
-Thursday     69 commits     █████░░░░░░░░░░░░░░░░░░░░   21.23% 
+Thursday     68 commits     █████░░░░░░░░░░░░░░░░░░░░   20.92% 
 Friday       54 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.62% 
 Saturday     64 commits     █████░░░░░░░░░░░░░░░░░░░░   19.69% 
 Sunday       61 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.77%
@@ -61,16 +61,19 @@ Sunday       61 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      9 mins              █████████████████████████   100.0% 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  9 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+prog1_v2                 9 mins              █████████████████████████   100.0% 
+postgre                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    9 mins              █████████████████████████   100.0% 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
@@ -86,7 +89,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2022
+ Last Updated on 04/01/2022
 <!--END_SECTION:waka-->
   
 <!-- End Coding Stats -->
