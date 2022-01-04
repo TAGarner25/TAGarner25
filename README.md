@@ -118,7 +118,7 @@ I am an aspriring software developer who likes to build things for fun. I first 
 ## Contact Me
 Email:
   - trevorgarner5@gmail.com
-  - trevor@trevorgarner.org
+  <!-- - trevor@trevorgarner.org -->
 
 LinkedIn:
   - [Trevor Garner](https://www.linkedin.com/in/trevor-garner-4/)
