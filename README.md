@@ -67,7 +67,7 @@ CSS                      0 secs              ░░░░░░░░░░░�
 No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+No Activity Tracked This Week
 
 💻 Operating System: 
 No Activity Tracked This Week
@@ -86,7 +86,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/01/2022
+ Last Updated on 17/01/2022
 <!--END_SECTION:waka-->
   
 <!-- End Coding Stats -->
