@@ -18,6 +18,8 @@ I am an aspiring software developer, general tech hobbyist, former collegiate at
 <!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@tagarner25/e28d9d0c-fe43-400a-9619-8a6f77810857.png" /></a> -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39%20Thousand%20lines%20of%20code-blue)
@@ -86,7 +88,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/05/2022 18:49:40 UTC
+ Last Updated on 07/05/2022 18:47:55 UTC
 <!--END_SECTION:waka-->
   
 <!-- End Coding Stats -->
