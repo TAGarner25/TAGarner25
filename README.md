@@ -20,7 +20,7 @@ I am an aspiring software developer, general tech hobbyist, former collegiate at
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-82%20Thousand%20lines%20of%20code-blue)
 
@@ -89,7 +89,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2022 18:47:56 UTC
+ Last Updated on 16/05/2022 18:52:22 UTC
 <!--END_SECTION:waka-->
   
 <!-- End Coding Stats -->
