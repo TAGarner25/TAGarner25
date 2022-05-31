@@ -32,9 +32,9 @@ I am an aspiring software developer, general tech hobbyist, former collegiate at
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 7 Public Repositories 
+> 📜 6 Public Repositories 
  > 
-> 🔑 20 Private Repositories  
+> 🔑 21 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -89,7 +89,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/05/2022 18:50:12 UTC
+ Last Updated on 31/05/2022 18:51:37 UTC
 <!--END_SECTION:waka-->
   
 <!-- End Coding Stats -->
