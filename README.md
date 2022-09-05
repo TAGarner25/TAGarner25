@@ -18,7 +18,7 @@ I am an aspiring software developer, general tech hobbyist, former collegiate at
 <!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@tagarner25/e28d9d0c-fe43-400a-9619-8a6f77810857.png" /></a> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -36,6 +36,46 @@ I am an aspiring software developer, general tech hobbyist, former collegiate at
  > 
 > 🔑 22 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8% 
+🌆 Daytime    61 commits     ████████████░░░░░░░░░░░░░   48.8% 
+🌃 Evening    57 commits     ███████████░░░░░░░░░░░░░░   45.6% 
+🌙 Night      6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.8%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.8% 
+Tuesday      16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.8% 
+Wednesday    2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.6% 
+Thursday     40 commits     ████████░░░░░░░░░░░░░░░░░   32.0% 
+Friday       25 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Saturday     16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.8% 
+Sunday       20 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.0%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -49,7 +89,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2022 18:50:57 UTC
+ Last Updated on 05/09/2022 18:51:46 UTC
 <!--END_SECTION:waka-->
   
 <!-- End Coding Stats -->
