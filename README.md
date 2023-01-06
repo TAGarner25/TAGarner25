@@ -28,7 +28,7 @@ I am an aspiring software developer, general tech hobbyist, former collegiate at
 
 > 🏆 0 Contributions in the Year 2023
  > 
-> 📦 318.3 kB Used in GitHub's Storage 
+> 📦 318.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -89,7 +89,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/01/2023 18:42:17 UTC
+ Last Updated on 06/01/2023 18:41:37 UTC
 <!--END_SECTION:waka-->
   
 <!-- End Coding Stats -->
