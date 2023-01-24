@@ -118,11 +118,11 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 ## Contact Me
 Email:
-  - trevorgarner5@gmail.com
+  <!-- trevorgarner5@gmail.com -->
   <!-- - trevor@trevorgarner.org -->
 
 LinkedIn:
-  - [Trevor Garner](https://www.linkedin.com/in/trevor-garner-4/)
+  <!-- [Trevor Garner](https://www.linkedin.com/in/trevor-garner-4/) -->
 
 Github:
   - [TAGarner25](https://github.com/TAGarner25)
@@ -131,7 +131,7 @@ Github:
   - [Trevor_5](https://twitter.com/Trevor_5) -->
 
 Discord:
-  - [tgarner](https://discordapp.com/users/491416520778448906/)
+  <!-- [tgarner](https://discordapp.com/users/491416520778448906/) -->
 
 <!--
 **TAGarner25/TAGarner25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
