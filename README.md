@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Trevor!
 
 <!-- brief description -->
-I am an aspiring software developer, general tech hobbyist, former collegiate athlete, and music fanatic who enjoys curating awesome playlists.
+General tech hobbyist, former collegiate athlete, and music fanatic who enjoys curating awesome playlists. Learning to code just for fun.
 
 <!-- Start Coding Stats -->
 ## My stats
@@ -97,8 +97,6 @@ Vue                      1 repo              █░░░░░░░░░░�
 <!-- table of contents -->
 
 <!-- about me -->
-## A little about me
-I am an aspriring software developer who likes to build things for fun. I first fell in love with technolgy while working as a Business Analyst for an aviation company here in Portland (OR). I am now studying Computer Science at Portland State University and aim to graduate in the spring term of 2022. Previously, I studied economics, political science, and philosophy at Oregon State University and Dominican University of California, where I played 4 yrs of competetive lacrosse and won 4 conference championships.
 
 
 <!-- ⚡ Fell in love with technology while managing the development of an automated document management system using Microsoft Sharepoint, Outlook, and Adobe Sign
