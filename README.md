@@ -18,7 +18,7 @@ General tech hobbyist, former collegiate athlete, and music fanatic who enjoys c
 <!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@tagarner25/e28d9d0c-fe43-400a-9619-8a6f77810857.png" /></a> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -61,16 +61,17 @@ Sunday                   81 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     3 mins              ████████████████████████░   96.87 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -86,7 +87,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/05/2023 18:34:58 UTC
+ Last Updated on 20/05/2023 18:34:59 UTC
 <!--END_SECTION:waka-->
   
 <!-- End Coding Stats -->
