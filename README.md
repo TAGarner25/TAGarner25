@@ -61,17 +61,16 @@ Sunday                   81 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Bash                     3 mins              ████████████████████████░   96.87 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -87,7 +86,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/05/2023 18:34:56 UTC
+ Last Updated on 27/05/2023 18:35:11 UTC
 <!--END_SECTION:waka-->
   
 <!-- End Coding Stats -->
