@@ -26,15 +26,15 @@ General tech hobbyist, former collegiate athlete, and music fanatic who enjoys c
 
 **🐱 My GitHub Data** 
 
-> 📦 413.0 kB Used in GitHub's Storage 
+> 📦 905.3 kB Used in GitHub's Storage 
  > 
-> 🏆 51 Contributions in the Year 2023
+> 🏆 53 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 1 Public Repository 
  > 
-> 🔑 34 Private Repository 
+> 🔑 36 Private Repository 
  > 
 **I'm a Night 🦉** 
 
@@ -76,17 +76,17 @@ No Activity Tracked This Week
 **I Mostly Code in C++** 
 
 ```text
-Python                   6 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Python                   6 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Jupyter Notebook         3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
 
 
- Last Updated on 30/11/2023 18:33:36 UTC
+ Last Updated on 01/12/2023 18:33:40 UTC
 <!--END_SECTION:waka-->
   
 <!-- End Coding Stats -->
