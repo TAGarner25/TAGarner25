@@ -26,7 +26,7 @@ General tech hobbyist, former collegiate athlete, and music fanatic who enjoys c
 
 **🐱 My GitHub Data** 
 
-> 📦 905.3 kB Used in GitHub's Storage 
+> 📦 1.1 MB Used in GitHub's Storage 
  > 
 > 🏆 53 Contributions in the Year 2023
  > 
@@ -86,7 +86,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/12/2023 18:33:00 UTC
+ Last Updated on 22/12/2023 18:33:02 UTC
 <!--END_SECTION:waka-->
   
 <!-- End Coding Stats -->
