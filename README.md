@@ -18,6 +18,8 @@ General tech hobbyist, former collegiate athlete, and music fanatic who enjoys c
 <!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@tagarner25/e28d9d0c-fe43-400a-9619-8a6f77810857.png" /></a> -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2058%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-170.8%20thousand%20lines%20of%20code-blue)
@@ -26,12 +28,51 @@ General tech hobbyist, former collegiate athlete, and music fanatic who enjoys c
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 1 Public Repository 
  > 
 > 🔑 36 Private Repository 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+🌆 Daytime                175 commits         █████████░░░░░░░░░░░░░░░░   36.01 % 
+🌃 Evening                188 commits         ██████████░░░░░░░░░░░░░░░   38.68 % 
+🌙 Night                  74 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Tuesday                  63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Wednesday                19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Thursday                 110 commits         ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
+Friday                   78 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Saturday                 79 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Sunday                   81 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -45,7 +86,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2024 18:37:46 UTC
+ Last Updated on 23/10/2024 18:37:52 UTC
 <!--END_SECTION:waka-->
   
 <!-- End Coding Stats -->
