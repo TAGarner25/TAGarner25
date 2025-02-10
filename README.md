@@ -28,6 +28,8 @@ General tech hobbyist, former collegiate athlete, and music fanatic who enjoys c
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 1 Public Repository 
@@ -84,7 +86,7 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/02/2025 18:35:49 UTC
+ Last Updated on 10/02/2025 18:37:23 UTC
 <!--END_SECTION:waka-->
   
 <!-- End Coding Stats -->
