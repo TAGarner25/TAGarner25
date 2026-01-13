@@ -18,16 +18,9 @@ General tech hobbyist, former collegiate athlete, and music fanatic who enjoys c
 <!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@tagarner25/e28d9d0c-fe43-400a-9619-8a6f77810857.png" /></a> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2058%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-170.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 1.2 MB Used in GitHub's Storage 
- > 
 > 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
