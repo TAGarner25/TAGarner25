@@ -7,10 +7,6 @@ General tech hobbyist, former collegiate athlete, and music fanatic who enjoys c
 ## My stats
 <!-- <a href="https://github.com/tagarner25"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tagarner25&theme=vue-dark&layout=compact" /> -->
-<a href="https://github.com/tagarner25">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tagarner25&theme=vue-dark" width="500" />
-</a>
-</a>
 <!-- <a href="https://github.com/tagarner25">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tagarner25&count_private=true&theme=vue-dark&show_icons=true" />
 <a /> -->
