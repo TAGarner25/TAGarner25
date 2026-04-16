@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Trevor!
 
 <!-- brief description -->
-General tech hobbyist, former collegiate athlete, and music fanatic who enjoys curating awesome playlists. Learning to code just for fun.
+General tech hobbyist, former collegiate athlete, avid snowboarder and extreme sport enthusiest, and overall music fanatic. Learning to code just for fun.
 
 <!-- Start Coding Stats -->
 ## My stats
